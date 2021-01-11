@@ -1,0 +1,6 @@
+# MacOS files
+.DS_Store
+
+# Various temp files
+*~
+._*
